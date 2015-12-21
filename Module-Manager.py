@@ -1,7 +1,6 @@
 from Tkinter import *
 
 import subprocess	
-import config
 import tempfile
 import os
 
